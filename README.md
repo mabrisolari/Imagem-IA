@@ -40,3 +40,10 @@ Aprendizados:
  *A importância de entender os limites da tecnologia e como ajustá-la para diferentes cenários.
  
  *Documentação bem estruturada é essencial para apresentar resultados claros.
+
+
+ Erros Encontrados
+
+
+Contexto:
+Esse erro ocorreu ao tentar utilizar a Vertex AI API no projeto. A solução envolve habilitar a API no console do Google Cloud e aguardar a propagação.
